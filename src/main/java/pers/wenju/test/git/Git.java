@@ -9,5 +9,6 @@ public class Git {
         System.out.println("master Hello Git5");
         System.out.println("Hello Git5");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
